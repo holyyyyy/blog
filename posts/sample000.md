@@ -12,13 +12,15 @@ tags: CMS.js, ブログ
 ### 小見出し 
 **太字** *斜体* 
 > 引用
-
+	
     <html>
 	    <head></head>
 	<body>
 	</body>
     </html>
+a
 
+![a](img.png)
 
 # Welcome to StackEdit!
 
@@ -164,5 +166,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODczMDcxMCwtMTYwMzUzOTUwOV19
+eyJoaXN0b3J5IjpbMTgyMDYxNDIxOCwtMTM4NzMwNzEwLC0xNj
+AzNTM5NTA5XX0=
 -->
