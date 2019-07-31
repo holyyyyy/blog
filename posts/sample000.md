@@ -16,8 +16,9 @@ tags: CMS.js, ブログ
     <html>
 	    <head></head>
 	<body>
-	</b
+	</body>
     </html>
+
 
 # Welcome to StackEdit!
 
@@ -163,6 +164,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTc3ODUxOTgsLTE2MDM1Mzk1MDldfQ
-==
+eyJoaXN0b3J5IjpbLTEzODczMDcxMCwtMTYwMzUzOTUwOV19
 -->
