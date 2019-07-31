@@ -13,6 +13,12 @@ tags: CMS.js, ブログ
 **太字** *斜体* 
 > 引用
 
+    <html>
+	    <head></head>
+	<body>
+	</b
+    </html>
+
 # Welcome to StackEdit!
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
@@ -157,5 +163,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDM1Mzk1MDldfQ==
+eyJoaXN0b3J5IjpbLTEyMTc3ODUxOTgsLTE2MDM1Mzk1MDldfQ
+==
 -->
